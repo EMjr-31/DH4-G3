@@ -1,0 +1,21 @@
+D:\E2-G3\E2-G3\bin\Debug\E2-G3.exe.config
+D:\E2-G3\E2-G3\bin\Debug\E2-G3.exe
+D:\E2-G3\E2-G3\bin\Debug\E2-G3.pdb
+D:\E2-G3\E2-G3\obj\Debug\E2-G3.csprojAssemblyReference.cache
+D:\E2-G3\E2-G3\obj\Debug\E2_G3.Form1.resources
+D:\E2-G3\E2-G3\obj\Debug\E2_G3.Properties.Resources.resources
+D:\E2-G3\E2-G3\obj\Debug\E2-G3.csproj.GenerateResource.cache
+D:\E2-G3\E2-G3\obj\Debug\E2-G3.csproj.CoreCompileInputs.cache
+D:\E2-G3\E2-G3\obj\Debug\E2-G3.exe
+D:\E2-G3\E2-G3\obj\Debug\E2-G3.pdb
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\bin\Debug\E2-G3.exe.config
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\bin\Debug\E2-G3.exe
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\bin\Debug\E2-G3.pdb
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\obj\Debug\E2-G3.csprojAssemblyReference.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\obj\Debug\E2_G3.Form1.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\obj\Debug\E2_G3.FRecibe.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\obj\Debug\E2_G3.Properties.Resources.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\obj\Debug\E2-G3.csproj.GenerateResource.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\obj\Debug\E2-G3.csproj.CoreCompileInputs.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\obj\Debug\E2-G3.exe
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 3\E2-G3\E2-G3\obj\Debug\E2-G3.pdb
