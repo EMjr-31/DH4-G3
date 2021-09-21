@@ -38,10 +38,10 @@ namespace E2_G3
         {
             Persona per = new Persona();
 
-            per.Nombre = txtNombre.Text;
-            per.Apellido= txtApellido.Text;
-            per.Telefono = txtTel.Text;
-            per.Correo=txtCorreo.Text;
+            per.Nombre = txtNombre.Text.Trim();
+            per.Apellido= txtApellido.Text.Trim();
+            per.Telefono = txtTel.Text.Trim();
+            per.Correo=txtCorreo.Text.Trim();
 
             if (edit_indice > -1)
             {
