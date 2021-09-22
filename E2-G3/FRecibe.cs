@@ -49,46 +49,25 @@ namespace E2_G3
         {
             PersonaBusqueda.Clear();
             dgvInfo.DataSource = null;
-            int tam_list = PersonaRecibe.Count();
             string dato = txtdato.Text.Trim();
-            for (int i = 0; i < tam_list; i++)
-            {
-                if (PersonaRecibe[i].Nombre == dato)
-                {
-                    PersonaBusqueda.Add(PersonaRecibe[i]);                 
-                }
-                dgvInfo.DataSource = PersonaBusqueda;
-            }
+            dgvInfo.DataSource = PersonaRecibe.FindAll(p => p.Nombre.StartsWith(dato));
+
         }
         public void BuscarTelefono()
         {
             PersonaBusqueda.Clear();
             dgvInfo.DataSource = null;
-            int tam_list = PersonaRecibe.Count();
             string dato = txtdato.Text.Trim();
-            for (int i = 0; i < tam_list; i++)
-            {
-                if (PersonaRecibe[i].Telefono == dato)
-                {
-                    PersonaBusqueda.Add(PersonaRecibe[i]);
-                }
-                dgvInfo.DataSource = PersonaBusqueda;
-            }
+            dgvInfo.DataSource = PersonaRecibe.FindAll(p => p.Telefono.StartsWith(dato));
+
         }
         public void BuscarApellido()
         {
             PersonaBusqueda.Clear();
             dgvInfo.DataSource = null;
-            int tam_list = PersonaRecibe.Count();
             string dato = txtdato.Text.Trim();
-            for (int i = 0; i < tam_list; i++)
-            {
-                if (PersonaRecibe[i].Apellido == dato)
-                {
-                    PersonaBusqueda.Add(PersonaRecibe[i]);
-                }
-                dgvInfo.DataSource = PersonaBusqueda;
-            }
+            dgvInfo.DataSource = PersonaRecibe.FindAll(p => p.Apellido.StartsWith(dato));
+
         }
     }
 }
